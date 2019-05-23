@@ -6,7 +6,7 @@ Preguntas:
 	GET: sirve para poder traer datos desde la base de datos, tambien se pueden mandar con este metodo pero los datos mandados se verian en la barra de direccion del navegador
 	POST: sirve para mandar datos al servidor
 	SESSION: Es un arreglo en el que podemos almacenar datos para que sean utilizados en cualquier parte del archivo php
-	FILES: sirve para poder cargar o almacenar archivos al servidor, mediante el metodo POSt
+	FILES: sirve para poder cargar o almacenar datos al servidor
 
 ¿Cuál es la diferencia entre validar y sanitizar?
 	Validar: que los datos que se mandan o reciben deben de cumplir con un formato en especifico para poder ser almacenados o procesados.

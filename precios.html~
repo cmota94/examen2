@@ -1,0 +1,25 @@
+
+<!--<br><table border="2px">-->
+	<thead class="active">
+		<th>Libreria</th>
+		<th>Precio</th>
+		<th>Cantidad</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Gandhi</td>
+			<td>$ 239</td>
+			<td>398</td>
+		</tr>
+		<tr>
+			<td>Porrua</td>
+			<td>$ 210</td>
+			<td>143</td>
+		</tr>
+		<tr>
+			<td>El sotano</td>
+			<td>$ 190</td>
+			<td>12</td>
+		</tr>
+	</tbody>
+<!--</table>-->
